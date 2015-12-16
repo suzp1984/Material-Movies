@@ -13,7 +13,7 @@
     <string name="activity_detail_label_description">Description</string>
     <string name="activity_detail_label_tagline">Tagline</string>
 
-      <string name="star_data">
+    <string name="star_data">
             M 200.30535,69.729172
             C 205.21044,69.729172 236.50709,141.52218 240.4754,144.40532
             C 244.4437,147.28846 322.39411,154.86809 323.90987,159.53312

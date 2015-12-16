@@ -52,3 +52,9 @@ tmp
 *.lock
 *.lck
 com_crashlytics_export_strings.xml
+
+.idea/
+*.iml
+build/
+HackVG/.idea/
+HackVG/*.iml

@@ -11,7 +11,7 @@
         android:scaleX="0.0"
         android:scaleY="0.0">
 
-        <path
+    <path
             android:name="star"
             android:fillColor="#FFFFFF"
             android:pathData="@string/star_data"/>
